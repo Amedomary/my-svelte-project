@@ -5,8 +5,8 @@
 <!-- <h2 class="logo">{head}</h2> -->
 
 <footer>
-  <p>Есть вопросы? Напишите нам в Телеграм или на support@travers.app©</p>
-  <p class='copyright'>2020, TraversОфертаДетали оплаты и реквизиты</p>
+  <p>Есть вопросы? Напишите нам в Телеграм или на support@palybook.app©</p>
+  <p class='copyright'>2021, Playbook ОфертаДетали оплаты и реквизиты</p>
 </footer>
 
 <style>
@@ -31,7 +31,7 @@
 		margin: 0 auto;
 	}
 
-	
+
 
 	@media (min-width: 640px) {
 		main {
