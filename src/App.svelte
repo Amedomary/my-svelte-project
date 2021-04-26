@@ -8,7 +8,8 @@
 <main>
   <HeroBlock head={'PlayBook'} />
   <NeedCouch />
-  <h1>Hello {name}!</h1>
+  <NeedCouch />
+  <!-- <h1>Hello {name}!</h1> -->
   <Footer />
 </main>
 
